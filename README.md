@@ -1,6 +1,6 @@
 # Compass
 
-## An app which returns the distance and direction between two points on a map
+## Using html, react and Google Maps API to create an app which returns the distance and direction between two points on a map
 
 My cousin Robin (who walks/hikes a lot) says one thing he'd like to see is the distance and direction to any given point on a map.
 
